@@ -1,6 +1,6 @@
 # Personal Website
 
-This repository contains the source code for my personal portfolio website, built with **HTML5, CSS3, and JavaScript**.
+This repository contains the source code for my personal website, built with **HTML, CSS, and JavaScript**.
 
 ### Credits
 
